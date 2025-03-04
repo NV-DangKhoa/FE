@@ -29,7 +29,7 @@ body {
 
 /* Banner */
 .hero {
-    background: url('Banner_6x1.png') no-repeat center center;
+    background: url('FE/Banner_6x1.png') no-repeat center center;
     background-size: cover;
     padding: 150px 20px;
     color: #fff;
